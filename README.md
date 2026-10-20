@@ -131,13 +131,13 @@ to its repository URL. Only link projects that are actually published.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=FF79C6&text_color=F8F8F2&ring_color=FF4DA6" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahed16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=FF79C6&text_color=F8F8F2&ring_color=FF4DA6" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahed16&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2" alt="Most used languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=FF79C6&fire=FF4DA6&currStreakLabel=FF79C6&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=AAAAAA" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Ahed16&hide_border=true&background=0D1117&ring=FF79C6&fire=FF4DA6&currStreakLabel=FF79C6&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=AAAAAA" alt="GitHub contribution streak" />
 
 </div>
 
@@ -147,7 +147,7 @@ to its repository URL. Only link projects that are actually published.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=FF79C6&line=FF4DA6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahed16&bg_color=0D1117&color=FF79C6&line=FF4DA6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
@@ -159,8 +159,12 @@ to its repository URL. Only link projects that are actually published.
 
 I'm always happy to connect with people who love data, business, creativity, and continuous learning.
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ahed-telmoudi-167577242/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FF79C6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="mailto:ahedtl16@gmail.com?subject=Business%20Analytics%20PFE%20Opportunity">
+  <img src="https://img.shields.io/badge/Email-PFE%20Opportunities-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me about PFE opportunities" />
 </a>
 
 <br/><br/>
