@@ -143,15 +143,6 @@ to its repository URL. Only link projects that are actually published.
 
 ---
 
-## 🌸 My Contribution Garden
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahed16&bg_color=0D1117&color=FF79C6&line=FF4DA6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
-</div>
-
----
 
 ## 💌 Let's Connect!
 
