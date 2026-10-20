@@ -149,9 +149,12 @@ I'm always happy to connect with people who love data, business, creativity, and
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FF79C6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
-<a href="mailto:ahedtl16@gmail.com?subject=Business%20Analytics%20PFE%20Opportunity">
-  <img src="https://img.shields.io/badge/Email-PFE%20Opportunities-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me about PFE opportunities" />
-</a>
+<div align="center">
+  <a href="mailto:ahedtl16@gmail.com?subject=Business%20Analytics%20PFE%20Opportunity">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</div>
+
 
 <br/><br/>
 
