@@ -64,6 +64,8 @@ I believe data tells better stories when we ask the right questions.
 
 ### 🛍️ Predicting Online Purchase Intention
 
+[Visit on Github](https://github.com/Ahed16/Data-Mining-Project)
+
 Exploring machine learning models to predict online purchasing behavior.
 
 **Tools:** R · Python · SQL
