@@ -1,9 +1,4 @@
 
-<!--
-  Ahed's GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME and YOUR_LINKEDIN_URL before publishing.
--->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=FF79C6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahed+Telmoudi+%F0%9F%8C%B8;Business+Analytics+Student;Turning+Data+Into+Insights;Curious+Mind.+Creative+Analytics." alt="Animated introduction" />
@@ -150,7 +145,7 @@ to its repository URL. Only link projects that are actually published.
 
 I'm always happy to connect with people who love data, business, creativity, and continuous learning.
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ahed-telmoudi-167577242/)" target="_blank">
+<a href="https://www.linkedin.com/in/ahed-telmoudi-167577242/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-FF79C6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
